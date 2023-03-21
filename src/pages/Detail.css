@@ -1,0 +1,49 @@
+.alert {
+  font-size: 50px;
+}
+
+.movieinfo {
+  background-color: black;
+
+}
+
+.backimg {
+  width: 850px;
+  height: 345px;
+}
+
+.images {
+  position: absolute;
+  top: 13.1px;
+  left: 13.3px;
+}
+
+.idtitle {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  margin: 0px 20px 6px 20px
+}
+
+.idinfo {
+  font-family: Arial, Helvetica, sans-serif;
+  opacity: 0.7;
+  font-size: 15px;
+  margin: 3px 25px 4px 25px;
+
+}
+
+.summaries {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px 25px;
+  border: 1px solid #757575;
+  border-radius: 3px;
+  padding: 10px;
+  background-color: #323232;
+
+
+}
+
+.whole {
+  border: 3px solid #f5c518;
+  display: inline-block;
+}
